@@ -1,0 +1,4 @@
+platform,post_id,content_type,engagement_quality,trolling_present,why_it_worked
+X,001,meme,organic_high,no,relatability + timing
+Reddit,002,screenshot_meme,organic_high,no,current event relevance
+X,003,bait_post,spammy,yes,provocative wording

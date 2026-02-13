@@ -1,0 +1,4 @@
+platform,post_id,text,likes,replies,retweets,notes
+X,001,"Example meme post text",1200,340,210,"Early viral meme"
+Reddit,002,"Screenshot meme about current event",800,120,45,"High engagement in r/all"
+X,003,"Obvious engagement bait post",300,15,5,"Low quality bait"
